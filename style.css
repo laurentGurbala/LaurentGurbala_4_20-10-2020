@@ -704,6 +704,16 @@ p {
     margin: auto auto auto auto;
 }
 
+.citation-client p, .citation-client strong {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1.4em;
+    font-family: "helvetica";
+}
+
+.citation-client footer {
+    font-style: italic;
+}
 h2 {
     font-size: 22px;
     line-height: 1.4em;
