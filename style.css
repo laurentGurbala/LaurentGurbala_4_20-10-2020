@@ -794,8 +794,12 @@ h4 {
     color: #222222!important;
 }
 
-.color-secondary a {
+.color-secondary a, .color-secondary h2 {
     color: #222222!important;
+}
+
+footer ul {
+    list-style: none;
 }
 
 .btn-atomic-tangerine {
